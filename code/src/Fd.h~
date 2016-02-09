@@ -1,0 +1,6 @@
+#ifndef LIBFEI_FD_H
+#define LIBFEI_FD_H
+
+class Fd{};
+
+#endif

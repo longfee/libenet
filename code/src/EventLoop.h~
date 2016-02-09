@@ -1,0 +1,7 @@
+#ifndef LIBFEI_EVENTLOOP_H
+#define LIBFEI_EVENTLOOP_H
+
+class EventLoop{
+};
+
+#endif
